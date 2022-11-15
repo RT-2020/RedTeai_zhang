@@ -1,7 +1,4 @@
 # RedTeai_zhang
-## Hey 👋, This is Zhang
-
-(https://img.shields.io/badge/-RT-2020-grey?style=flat&logo=github&logoColor=white&link=https://github.com/RT-2020/)](https://www.github.com/RT-2020/)
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=RT-2020 alt=RT-2020 /> </p>
 
