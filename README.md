@@ -1,7 +1,7 @@
 # RedTeai_zhang
-## Hey 👋, This is Ruan
+## Hey 👋, This is Zhang
 
-[![Mail Badge](https://img.shields.io/badge/-11812109@mail.sustech.edu.cn-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:11812109@mail.sustech.edu.cn)](mailto:11812109@mail.sustech.edu.cn) [![Github Badge](https://img.shields.io/badge/-ryyyc-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ryyyc/)](https://www.github.com/ryyyc/)
+(https://img.shields.io/badge/-RT-2020-grey?style=flat&logo=github&logoColor=white&link=https://github.com/RT-2020/)](https://www.github.com/RT-2020/)
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=RT-2020 alt=RT-2020 /> </p>
 
@@ -14,5 +14,5 @@
 
 Languages and Tools:
 
-<code><img width="100" src="https://vuejs.org/images/logo.png" alt="Vue logo"></code>
+<code><img width="20" src="https://vuejs.org/images/logo.png" alt="Vue logo"></code>
 
