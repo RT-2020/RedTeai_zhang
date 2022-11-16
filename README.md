@@ -1,5 +1,4 @@
 # RedTeai_zhang
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RT-2020&repo=RedTeai_zhang)
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=RT-2020 alt=RT-2020 /> </p>
 
