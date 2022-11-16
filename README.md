@@ -1,4 +1,4 @@
-# RedTeai_zhang
+# Hi this is RedTeai_zhang
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=RT-2020 alt=RT-2020 /> </p>
 
